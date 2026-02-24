@@ -36,7 +36,7 @@ HKLM\SYSTEM\CurrentControlSet\Services\EventLog\Security
 
 4. **Custom Application and Services** 
 
-Check this for Complete Info : [Types_OF_Events_Logs]()
+Check this for Complete Info : [Types_OF_Events_Logs](Docs2/Types_Of_Eventlogs.md)
 ---
 
 ## Security Logs
